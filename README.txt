@@ -57,5 +57,3 @@
 - **Energy**: Represents the power of the signal.
 - **Slope Changes**: Capture changes in the direction of the signal.
 - **Window-based Features**: Provide localized statistical information.
-
-These features provide a comprehensive representation of the signal, making it suitable for machine learning classification tasks. If you have further questions or need specific adjustments, feel free to ask!
